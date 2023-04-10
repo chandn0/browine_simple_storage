@@ -1,3 +1,7 @@
 dotenv: .env
 wallets:
-  from_keys: ${PRIVATE_KEY}
+  from_keys: e41093dfc8b71304b22b54bc3f12e7f41a03f3d802287659c4c44777a105ff5a
+
+networks:
+    default: Buildbear
+    
